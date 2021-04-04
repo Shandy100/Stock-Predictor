@@ -1,2 +1,2 @@
 # Stock-Predictor
-Stock prediction using sci-kit and keras
+Stock prediction using Python Library sci-kit and Keras.
